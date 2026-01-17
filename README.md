@@ -13,4 +13,4 @@ Projeto desenvolvido com HTML, CSS e JavaScript que exibe a hora em tempo real.
 - JavaScript
 
 ## Demo
-👉 https://Macedo74.github.io/Relogio-Digital/
+👉(https://macedo74.github.io/Relogio-Digital/relogio-digital/)
